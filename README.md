@@ -4,5 +4,6 @@
 <br>
 <br>
 # Other JavaSwing 
-<img src="gas.png" align="left"> <img src="buy Coffee.png" align="right">
+<br>
+<img width="30" src="gas.png" align="left"> <img width="30" src="buy Coffee.png" align="right">
 <br>
